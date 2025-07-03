@@ -1,0 +1,59 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following is a valid variable name in Python?",
+            "answer": "variable_name",
+            "explanation": "Variable names in Python must start with a letter or an underscore. They cannot start with a number or contain spaces or hyphens.",
+            "options": [
+                "1variable",
+                "variable name",
+                "variable_name",
+                "variable-name"
+            ]
+        },
+        {
+            "question": "What will be the output of the following code snippet?\n\nfor i in range(3):\n    print(i)",
+            "answer": "0 1 2",
+            "explanation": "The `range(3)` function generates a sequence of numbers from 0 up to (but not including) 3. The loop iterates through this sequence, printing each number.",
+            "options": [
+                "1 2 3",
+                "0 1 2",
+                "1 2",
+                "0 1 2 3"
+            ]
+        },
+        {
+            "question": "Which keyword is used to define a function in Python?",
+            "answer": "def",
+            "explanation": "The `def` keyword is used to define a function in Python, followed by the function name and parentheses.",
+            "options": [
+                "function",
+                "def",
+                "define",
+                "func"
+            ]
+        },
+        {
+            "question": "What is the purpose of the 'if' statement in Python?",
+            "answer": "To execute a block of code only if a condition is true",
+            "explanation": "The 'if' statement is a conditional statement that executes a block of code only if the specified condition evaluates to True.",
+            "options": [
+                "To define a function",
+                "To repeat a block of code",
+                "To execute a block of code only if a condition is true",
+                "To declare a variable"
+            ]
+        },
+        {
+            "question": "What will be the value of 'x' after the following code is executed?\n\nx = 5\nx += 2",
+            "answer": "7",
+            "explanation": "The '+=' operator adds the value on the right to the variable on the left. So, x += 2 is equivalent to x = x + 2, which results in x being 5 + 2 = 7.",
+            "options": [
+                "5",
+                "2",
+                "7",
+                "3"
+            ]
+        }
+    ]
+}

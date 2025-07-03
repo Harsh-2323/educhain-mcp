@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "educhain-server": {
+      "command": "python",
+      "args": [
+        "src/mcp_server.py"
+      ],
+      "cwd": "D:\\educhain-mcp",
+      "env": {
+        "GOOGLE_API_KEY": "AIzaSyCMgyNs98KmG81gaLpXIOeVqrwXCz5Axjs"
+      }
+    }
+  }
+}

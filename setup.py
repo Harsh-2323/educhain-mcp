@@ -56,4 +56,4 @@ if __name__ == "__main__":
     print("\nNext steps:")
     print("1. Add your Google API key to .env file")
     print("2. Run: python src/generate_content.py")
-    print("3. Run: python src/mcp_server.py")
+   

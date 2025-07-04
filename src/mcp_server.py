@@ -1,22 +1,4 @@
 
-"""
-EduChain MCP Server - Simplified Implementation
-An MCP server that exposes EduChain-generated educational content as tools and resources.
-
-This implementation fulfills the AI Intern Assignment requirements:
-- Task 1: EduChain environment setup with content generation
-- Task 2: MCP server with integrated educhain functionality
-- Task 3: Claude Desktop integration and testing
-- Bonus: Additional flashcards generator tool
-
-References:
-- EduChain: https://github.com/satvik314/educhain (v1.2.0)
-- MCP Documentation: https://modelcontextprotocol.io/
-- MCP Python SDK: https://github.com/modelcontextprotocol/python-sdk
-
-Author: AI Intern Assignment Solution
-Date: July 2025
-"""
 
 import asyncio
 import json

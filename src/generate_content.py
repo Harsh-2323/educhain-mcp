@@ -1,16 +1,5 @@
 
-"""
-Script to generate educational content using EduChain with Google Gemini API for MCP server integration.
-Generates 10 simple MCQs, a lesson plan, and flashcards on Python Programming Basics in JSON format for use by the EduChain MCP Server.
 
-References:
-- EduChain: https://github.com/satvik314/educhain (v1.2.0, May 2025)
-- MCP Documentation: https://modelcontextprotocol.io/
-- MCP Python SDK: https://github.com/modelcontextprotocol/python-sdk
-
-Author: AI Intern Assignment Solution
-Date: July 2025
-"""
 
 import json
 import os

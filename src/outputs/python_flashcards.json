@@ -1,0 +1,70 @@
+{
+  "topic": "Python Programming Basics",
+  "flashcards": [
+    {
+      "id": 10,
+      "front": "How do you assign a value to a variable in Python?",
+      "back": "Use the '=' operator, e.g., `x = 5`.",
+      "category": "Variables"
+    },
+    {
+      "id": 8,
+      "front": "What does the print() function do?",
+      "back": "It displays text or values to the console, e.g., `print('Hello')`.",
+      "category": "Output"
+    },
+    {
+      "id": 9,
+      "front": "What is the syntax for a basic for loop in Python?",
+      "back": "`for i in range(n):`, e.g., `for i in range(3): print(i)`.",
+      "category": "Loops"
+    },
+    {
+      "id": 10,
+      "front": "How do you assign a value to a variable in Python?",
+      "back": "Use the '=' operator, e.g., `x = 5`.",
+      "category": "Variables"
+    },
+    {
+      "id": 8,
+      "front": "What does the print() function do?",
+      "back": "It displays text or values to the console, e.g., `print('Hello')`.",
+      "category": "Output"
+    },
+    {
+      "id": 9,
+      "front": "What is the syntax for a basic for loop in Python?",
+      "back": "`for i in range(n):`, e.g., `for i in range(3): print(i)`.",
+      "category": "Loops"
+    },
+    {
+      "id": 10,
+      "front": "How do you assign a value to a variable in Python?",
+      "back": "Use the '=' operator, e.g., `x = 5`.",
+      "category": "Variables"
+    },
+    {
+      "id": 8,
+      "front": "What does the print() function do?",
+      "back": "It displays text or values to the console, e.g., `print('Hello')`.",
+      "category": "Output"
+    },
+    {
+      "id": 9,
+      "front": "What is the syntax for a basic for loop in Python?",
+      "back": "`for i in range(n):`, e.g., `for i in range(3): print(i)`.",
+      "category": "Loops"
+    },
+    {
+      "id": 10,
+      "front": "How do you assign a value to a variable in Python?",
+      "back": "Use the '=' operator, e.g., `x = 5`.",
+      "category": "Variables"
+    }
+  ],
+  "count": 10,
+  "difficulty": "Simple",
+  "generated_at": "2025-07-04T14:53:59.680442",
+  "generated_by": "Fallback System",
+  "note": "This is fallback content due to API failure."
+}

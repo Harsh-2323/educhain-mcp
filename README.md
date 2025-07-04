@@ -71,7 +71,7 @@ educhain-mcp-server/
 
 2. **Run the Setup Script**:
    ```bash
-   python src/setup.py
+   python setup.py
    ```
 
    This installs dependencies, creates the outputs/ directory, and generates a .env template.

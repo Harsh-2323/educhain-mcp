@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "EduChain MCP Server",
+      "url": "http://localhost:6274",
+      "auth_token": "c8329c6bde677a1a19b014deea72593c10bfb7a1b95a95af2f895b67926d5667"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 The EduChain MCP Server is a Python-based implementation that integrates the EduChain library (v1.2.0, May 2025) with the Model Context Protocol (MCP) to generate and serve educational content. It creates multiple-choice questions (MCQs), lesson plans, and flashcards focused on Python Programming Basics using the Google Gemini API. The server exposes these resources via the MCP protocol for integration with tools like Claude Desktop or the MCP Inspector.
 
-This project fulfills the requirements of the AI Intern Assignment by providing a robust setup for content generation, an MCP server with tools and resources, and compatibility with MCP clients.
+
 
 ---
 
